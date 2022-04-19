@@ -35,5 +35,6 @@ ArrayList<Categoria> categorias = (ArrayList<Categoria>) session.getAttribute("c
                 }
             %>
         </table>
+        <p><a href="index.jsp">Ir al inicio</a></p>
     </body>
 </html>
